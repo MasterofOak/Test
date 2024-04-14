@@ -14,5 +14,6 @@
 
       - name: Run Bash Script
         run: ./script.sh      
-  
+      - name: Run ans Script
+        run: ansible --version
     
